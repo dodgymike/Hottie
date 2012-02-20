@@ -1,0 +1,5 @@
+source :rubygems
+
+gem 'net-yail'
+gem 'dbd-pg'
+gem 'dbi'
